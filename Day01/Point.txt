@@ -1,0 +1,39 @@
+
+Data Structures
+---------------
+Lists - Lists are similar to arrays
+
+ar = [1, 2, 3, 'four', 'five', 'six', 7.3, 8.9, 10]
+
+
+Arrays
+------
+1. Arrays are a collection of homogenous data
+2. memory allocation is contigious
+
+Lists
+-----
+lists are collection of hetrogenous data
+memroy allocation is not contigious
+
+python has readymade functions for everything
+
+print
+-----
+print(data, sep=, end="\n")
+
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+assignment
+----------
+
+months = ['dec', 'apr', 'aug', 'nov', 'jan', 'oct', 'mar', 'may', 'feb', 'jul', 'sep', 'jun']
+
+sort the above months using list.sort and according to the calendar
+
+dictionary
+----------
+
+associative array  - {k1: v1, k2: v2, k3: v3......}
+mutable
+unordered ->
